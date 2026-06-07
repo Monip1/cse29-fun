@@ -3,6 +3,9 @@
 {: .note}
 I've never been on PA team so this might not be perfectly accurate but I think it's close.
 
+{: .fun-fact}
+The voice of the PAs is mainly a combination of first two Spring staffs: Jerry Yu, Michael Peng and their teams.
+
 1. Before CSE 29 existed, there was only CSE30. When Gerald taught CSE30 in [Winter 2023](https://cse30winter2023.github.io/) it inspired 29 which would begin with the same TA, Jerry Yu.
 
 1. CSE 30 had things such as this ![square](./geometry.png) scattered around the PA writeups and I thought they were hilarious.

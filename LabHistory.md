@@ -27,7 +27,8 @@ Hi I'm Elena, and the following is written almost entirely from memory. If you f
 1. [Spring 2026 Labs](https://cse29spring2026.github.io/lab1) built off of Spring '25 almost entirely, with the introduction of whiteboards, with a few warmup activities pulled from Winter '26. Lab 9 based off of a 15L lab from it's last iteration, all others based on SP25.
     * Lab TA: [Elena Tomson](https://cse29spring2026.github.io/docs/instructors.html#teaching-assistants) 
     * Tutors: [Sam(uel) Gonzalez and Travis Henry](https://cse29spring2026.github.io/docs/instructors.html#tutors)
-
+1. Fall 2026
+    * Team remains to be seen :)
 
 
 Course Pages:  

@@ -19,9 +19,14 @@ Hi I'm Elena, and the following is written almost entirely from memory. If you f
     * Lab TA: Joey Wu
     * Tutor: Elena Tomson
 
-1. [Fall 2025 Labs](https://ucsd-cse29.github.io/fa25/week1/lab1.html)
-
-may I ask if we can know the authors of the Lab and PA instructions? I enjoyed reading them very much: they are humorous, informative, and inspiring.
+1. [Fall 2025 Labs](https://ucsd-cse29.github.io/fa25/week1/lab1.html) saw a shift to severely reduced staff and the introduction of whiteboards. Lab was shifted to a demo-task-demo-task format where a TA would demo something and the students would do a very similar task using what they just learned. This time we had 4 TAs, each week 2 of which were in charge of writing lab.
+    * TAs: Elena Tomson, Andrew Pan, Janet Vorobyeva, and Rachel Lim
+1. [Winter 2026 Labs](https://ucsd-cse29.github.io/wi26/week1/lab1.html) saw mild updates from falls labs, polishing them and their demos. The lab team for this quarter:
+    * TAs: Elena Tomson and Shaurya Raswan
+    * Tutor: Brendan Barber
+1. [Spring 2026 Labs](https://cse29spring2026.github.io/lab1) built off of Spring '25 almost entirely, with the introduction of whiteboards, with a few warmup activities pulled from Winter '26. Lab 9 based off of a 15L lab from it's last iteration, all others based on SP25.
+    * Lab TA: [Elena Tomson](https://cse29spring2026.github.io/docs/instructors.html#teaching-assistants) 
+    * Tutors: [Sam(uel) Gonzalez and Travis Henry](https://cse29spring2026.github.io/docs/instructors.html#tutors)
 
 
 

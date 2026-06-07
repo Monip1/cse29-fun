@@ -32,6 +32,8 @@
 
 :root {
   // Light mode colors (default)
+  --bg-color: #ffffff;
+  --text-color: #27262b;
   --callout-note-bg: #e7f3ff;
   --callout-warning-bg: #fff0f0;
   --callout-important-bg: #f0fff0;
@@ -41,6 +43,8 @@
 
 [data-theme="dark"] {
   // Dark mode colors
+  --bg-color: #1a1a1a;
+  --text-color: #e1e1e6;
   --callout-note-bg: #1a2332;
   --callout-warning-bg: #321a1a;
   --callout-important-bg: #1a321a;

@@ -2,6 +2,7 @@ title: CSE 29 Fun
 description: The unofficial website for CSE 29 at UC San Diego.
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
+nav_enabled: false
 
 domain: monip1.github.io/cse29-fun/
 url: https://monip1.github.io/cse29-fun/

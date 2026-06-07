@@ -3,6 +3,9 @@
 {: .note}
 Hi I'm Elena, and the following is written almost entirely from memory. If you find any inaccuracies please let me know.
 
+{: .fun-fact}
+In short, the voice of the lab is a combination of Eric Xiao, Michael Peng, and their teams.
+
 1. Before CSE 29 was first thought of, there was a class called CSE 15L. The iteration that I (Elena) took it was Winter 2022 ([CSE15L WI22 website](https://ucsd-cse15l-w22.github.io/index.html)) and that is the quarter that 29 was based on most strongly when 29 labs were written for the first time in [Spring 2024](https://cse29sp24.github.io/).
 1. [Spring 2024 Labs](https://cse29sp24.github.io/docs/labs/lab1.html) were written by our original Lab TA with the help of his tutor team who are as follows:
     * Lab TA: [Eric Xiao](https://cse29sp24.github.io/docs/instructors.html#teaching-assistants), 

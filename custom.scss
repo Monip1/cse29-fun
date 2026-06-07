@@ -192,12 +192,12 @@ code {
 }
 
 .fun-fact::before {
-  content: "Fun fact: ✨";
+  content: "In short: ✨";
   display: inline-block;
   margin-right: 0.5rem;
   font-size: 1.25rem;
   vertical-align: middle;
-  animation: ff-pulse 8s ease-in-out infinite;
+  // animation: ff-pulse 8s ease-in-out infinite;
 }
 
 @keyframes ff-pulse {

@@ -6,6 +6,26 @@
 // 1. LAYOUT & STRUCTURE
 // ===================================
 
+.side-bar {
+  display: none !important;
+}
+
+.main {
+  margin-left: 0 !important;
+}
+
+@media (min-width: 50rem) {
+  .main {
+    margin-left: 0 !important;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .main {
+    margin-left: 0 !important;
+  }
+}
+
 // ===================================
 // 5. DARK MODE THEME
 // ===================================

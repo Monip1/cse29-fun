@@ -1,5 +1,7 @@
 # PA History
 
+[<- Back to Home Page](./index.md)
+
 {: .note}
 I've never been on PA team so this might not be perfectly accurate but I think it's close.
 

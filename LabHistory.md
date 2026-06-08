@@ -1,5 +1,7 @@
 # Lab History
 
+[<- Back to Home Page](./index.md)
+
 {: .note}
 Hi I'm Elena, and the following is written almost entirely from memory. If you find any inaccuracies please let me know.
 

@@ -31,6 +31,12 @@ callouts:
     color: blue
     title: Fun Fact
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      has_toc: false
+
 plugins:
   - jekyll-remote-theme
 

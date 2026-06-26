@@ -32,7 +32,12 @@
 
 .toc-wrap,
 .page-toc,
-.toc {
+.toc,
+#markdown-toc,
+details.toc,
+summary.toc-title,
+nav[aria-label*="contents"],
+nav[aria-label*="Contents"] {
   display: none !important;
 }
 

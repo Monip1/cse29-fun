@@ -27,6 +27,9 @@ callouts:
   note:
     color: blue
     title: note
+  fun-fact:
+    color: blue
+    title: Fun Fact
 
 plugins:
   - jekyll-remote-theme

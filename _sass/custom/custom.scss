@@ -11,19 +11,29 @@
 }
 
 .main {
-  margin-left: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 860px;
 }
 
 @media (min-width: 50rem) {
   .main {
-    margin-left: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 }
 
 @media (min-width: 66.5rem) {
   .main {
-    margin-left: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
+}
+
+.toc-wrap,
+.page-toc,
+.toc {
+  display: none !important;
 }
 
 // ===================================

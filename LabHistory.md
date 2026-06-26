@@ -1,3 +1,5 @@
+
+[<- Back to Home Page](./index.md)
 # Lab History
 
 {: .note}
@@ -39,8 +41,8 @@ Course Pages:
 [Fall 2024](https://ucsd-cse29.github.io/fa24/)  
 [Winter 2025](https://sites.google.com/ucsd.edu/cse29winter2025/home?authuser=0)  
 [Winter 2025 PAs and Labs](https://cse29winter2025.github.io/)  
-[Spring 2025](https://cse29spring2025.github.io/)
-[Summer Session 1 2025](https://ucsd-cse29.github.io/ss1-25/)
+[Spring 2025](https://cse29spring2025.github.io/)  
+[Summer Session 1 2025](https://ucsd-cse29.github.io/ss1-25/)  
 [Fall 2025](https://ucsd-cse29.github.io/fa25/)  
 [Winter 2026](https://ucsd-cse29.github.io/wi26/)  
 [Spring 2026](https://cse29spring2026.github.io/)
